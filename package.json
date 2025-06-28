@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "code": "node src/index.js"
+    "code": "node src/index.js",
+    "test": "jest"
   },
   "devDependencies": {
     "@eslint/js": "^9.28.0",
